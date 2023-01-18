@@ -3,8 +3,8 @@ name: CIFajar
 on: [push]
 
 jobs:
-  eslint:
-    name: Lint code base 
+  testing:
+    name: CI Testing 
     runs-on: ubuntu-latest
 
     steps:
