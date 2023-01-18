@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1674039658777" clover="3.2.0">
-  <project timestamp="1674039658778" name="All files">
+<coverage generated="1674046950737" clover="3.2.0">
+  <project timestamp="1674046950737" name="All files">
     <metrics statements="8" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1" elements="10" coveredelements="10" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
     <file name="baseController.js" path="C:\Users\fajar\Fajar-project\BinarAcademy\ch11\topik4\testOne\controllers\baseController.js">
       <metrics statements="8" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
